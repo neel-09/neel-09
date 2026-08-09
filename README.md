@@ -17,12 +17,12 @@
 
 ### 🧭 About Me
 
-- 🎓 Third-year **B.Tech, Applied Electronics & Instrumentation Engineering** — Heritage Institute of Technology, Kolkata
+- 🎓 Fourth-year **B.Tech, Applied Electronics & Instrumentation Engineering** — Heritage Institute of Technology, Kolkata
 - 🔭 Currently building a **self-balancing robot** with quantum-computing-assisted PID auto-tuning
 - 🧠 Focused on **embedded systems, robotics, and applied AI/ML** — I like work that ends in real hardware, not just a slide deck
 - 📄 Co-authored an **Explainable AI** paper — accepted at ICHCSC 2025, published via Springer SIST
 - 🧑‍💻 Active member of the **ACM HITK Student Chapter**
-- 🎯 Looking for **Applied Scientist / AI Engineer / AI Developer** roles and internships
+- 🎯 Looking for **AI Engineer / AI Developer** roles and internships
 - 📫 Reach me via the links below
 
 ---
@@ -33,36 +33,18 @@
 <tr>
 <td width="50%" valign="top">
 
-**🤖 Self-Balancing Robot** *(Final Year Project)*
-Inverted-pendulum robot that simultaneously balances a ball on a top platform. Cascaded PID control with **quantum-computing-based gain auto-tuning (Qiskit Aer)** and a live digital twin. Runs on an **Arduino Uno Q** — Qualcomm Linux MPU + STM32 MCU, with the STM32 handling real-time control/sensor fusion and the Linux side running OpenCV, Qiskit, and digital-twin streaming.
-
-`STM32` `Qiskit` `OpenCV` `Control Systems` `Digital Twin`
-
-</td>
-<td width="50%" valign="top">
-
-**🕵️ VeriFace Offline**
-Offline liveness detection + facial recognition pipeline for a React Native field app, built for personnel working in low-connectivity environments. Sub-1-second on-device inference, tuned for robustness across lighting conditions.
-
-`React Native` `TFLite` `Computer Vision` `On-Device ML`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🏗️ AI System Design Assistant**
-Converts casual prompts into structured architecture documents through a six-stage pipeline — Oracle Parser, Stack Debater, Blueprint Visualizer, a Human-in-the-Loop gate (via LangGraph's interrupt/checkpointer pattern), and an IaC Fabricator.
-
-`LangGraph` `FastAPI` `LLM Pipelines` `IaC`
-
-</td>
-<td width="50%" valign="top">
-
 **📊 RAG Optimization & Benchmarking Framework**
-Framework for tuning and benchmarking retrieval-augmented generation pipelines, alongside an **IoT Digital Twin & Predictive Maintenance System**.
+Framework for tuning and benchmarking retrieval-augmented generation pipelines — evaluating retrieval strategies, chunking approaches, and generation configs against latency and quality metrics.
 
-`RAG` `LangChain` `IoT` `Predictive Maintenance`
+`RAG` `LangChain` `Benchmarking`
+
+</td>
+<td width="50%" valign="top">
+
+**🔍 CodeCritic**
+AI-powered Arduino development platform that turns a plain-English description into compiled, simulated, and verified embedded code — closing the write-flash-debug loop before hardware is touched. An autonomous LangGraph pipeline plans a structured spec, generates circuit + code in parallel, self-corrects through a compile-retry loop, then verifies behavior via Wokwi simulation against DSL assertions, backed by two-tier prompt/spec caching.
+
+`LangGraph` `arduino-cli` `Wokwi` `FastAPI` `Gemini`
 
 </td>
 </tr>
