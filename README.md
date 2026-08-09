@@ -1,12 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=220&section=header&text=Hi%2C%20I'm%20Neel%20&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring Applied%20Scientist%20%7C%20AI%20Engineer%20%7C%20Embedded%20Systems&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=220&section=header&text=Hi%2C%20I'm%20Abhroneel&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20AI%20Developer%20%7C%20Applied%20Scientist%20%7C%20Embedded%20Systems%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&duration=2800&pause=900&color=00C9A7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=90&lines=Building+at+the+intersection+of+hardware+and+AI;Quantum-tuned+control+systems+%E2%9A%99%EF%B8%8F;On-device+ML+%2F+Embedded+Vision+%F0%9F%A4%96;Third-year+AEIE+%40+Heritage+Institute+of+Technology" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=00C9A7&center=true&vCenter=true&multiline=true&repeat=true&width=950&height=150&lines=Building+at+the+intersection+of+hardware+and+AI;Quantum-tuned+control+systems;On-device+ML+%2F+Embedded+Vision;Fourth-year+AEIE+%40+Heritage+Institute+of+Technology" alt="Typing SVG" />
 </a>
 
 <br/>
+
+<img src="https://komarev.com/ghpvc/?username=neel-09&label=Profile%20Views&color=00c9a7&style=flat-square" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/neel-09?label=Followers&style=flat-square&color=0f2027" alt="followers"/>
 
 </div>
 
@@ -19,7 +22,7 @@
 - 🧠 Focused on **embedded systems, robotics, and applied AI/ML** — I like work that ends in real hardware, not just a slide deck
 - 📄 Co-authored an **Explainable AI** paper — accepted at ICHCSC 2025, published via Springer SIST
 - 🧑‍💻 Active member of the **ACM HITK Student Chapter**
-- 🎯 Looking for **AI Engineer / AI Developer** roles and internships
+- 🎯 Looking for **Applied Scientist / AI Engineer / AI Developer** roles and internships
 - 📫 Reach me via the links below
 
 ---
