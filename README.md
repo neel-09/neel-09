@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/abhroneel-chakraborty-2284b9317/"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iNCIgZmlsbD0iI2ZmZmZmZiIvPjxyZWN0IHg9IjUiIHk9IjkuNSIgd2lkdGg9IjMiIGhlaWdodD0iOS41IiBmaWxsPSIjMTExMTExIi8+PGNpcmNsZSBjeD0iNi41IiBjeT0iNi4yIiByPSIxLjgiIGZpbGw9IiMxMTExMTEiLz48cGF0aCBkPSJNMTAuNSA5LjVoMi45djEuNGMuNi0xIDEuNy0xLjYgMy0xLjYgMi4zIDAgMy42IDEuNCAzLjYgNC4yVjE5aC0zdi01YzAtMS40LS41LTIuMS0xLjYtMi4xLTEuMiAwLTEuOS44LTEuOSAyLjJWMTloLTN6IiBmaWxsPSIjMTExMTExIi8+PC9zdmc+" alt="LinkedIn"/></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=abhro05@gmail.com"><img src="https://img.shields.io/badge/abhro05%40gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email abhro05@gmail.com"/></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=abhro05@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email abhro05@gmail.com"/></a>
 <a href="https://drive.google.com/file/d/1jTG8bKeKoyjyQ5iD0SCHjMW9p-hbHbuR/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-111111?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
 <img src="https://komarev.com/ghpvc/?username=neel-09&label=views&color=111111&style=for-the-badge" alt="views"/>
 
