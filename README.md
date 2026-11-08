@@ -44,8 +44,5 @@
 ## Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=neel-09&bg_color=0d1117&color=e6edf3&line=00c9a7&point=e6edf3&area=true&area_color=0b3d3a&hide_border=true&radius=12" width="100%" alt="activity graph"/>
-</p>
-<p align="center">
 <img src="https://streak-stats.demolab.com/?user=neel-09&theme=dark&background=0d1117&ring=00c9a7&fire=00c9a7&currStreakLabel=00c9a7&border=1f3a38&border_radius=14" width="62%" alt="streak"/>
 </p>
